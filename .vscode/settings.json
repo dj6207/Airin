@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\frost\\Documents\\VSCode\\JavaJar\\jna.jar",
+            "c:\\Users\\frost\\Documents\\VSCode\\JavaJar\\jna-platform.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\frost\\Documents\\VSCode\\JavaJar\\jna-jpms-5.13.0.jar"
+        ]
+    }
+}
